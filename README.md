@@ -1,3 +1,17 @@
+# Tarea3-IIC3103-rtrubio
+## Tarea 3 - Taller de Integración
+
+* Rodrigo Rubio
+* Link página: https://tarea3-rtrubio.herokuapp.com/
+
+## Referencias
+
+* Uso de sockets y aplicación de Chat: https://www.youtube.com/watch?v=mEr9lt5mG9A&t=804s
+* Uso de useState y useEffect: https://www.youtube.com/watch?v=iEVcCdbF1WQ&list=LL&index=3
+* Creación de Markers y Pop-Ups: https://www.youtube.com/watch?v=2R_5wRHpOfg&list=LL&index=2&t=1058s
+* Uso de React-Leaflet y mapa: https://www.youtube.com/watch?v=NfDTO4c0xLc&t=122s
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
